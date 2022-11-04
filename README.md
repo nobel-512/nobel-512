@@ -4,7 +4,7 @@
 - 🕐 I'm looking forward to learning Vue.js in the near future
 - 💞️ I’m looking to collaborate on web app projects
 - 📫 How to reach me :
-- - 📞 <a href="wa.me/+201002274712" target="_blank">+201 002 274 712</a>
+- - 📞 <a href="https://wa.me/+201002274712" target="_blank">+201 002 274 712</a>
 - - ✉️ ahmed.nabil.home@gmail.com
 - 🧑‍💻 I’m currently working on laravel CMS blog project
 
