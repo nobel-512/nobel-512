@@ -6,7 +6,6 @@
 - 📫 How to reach me :
 - - 📞 <a href="https://wa.me/+201002274712" target="_blank">+201 002 274 712</a>
 - - ✉️ ahmed.nabil.home@gmail.com
-- 🧑‍💻 I’m currently working on laravel CMS blog project
 
 
 <!---
