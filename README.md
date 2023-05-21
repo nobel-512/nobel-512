@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ahmed Nabil
 - 👀 I’m interested in web development
-- 💞️ I’m looking to collaborate on web app projects
+- 💞️ I’m looking to collaborate on large scale projects
 - 📫 How to reach me :
 - - 📞 <a href="https://wa.me/+201002274712" target="_blank">+20 100 227 4712</a>
 - - ✉️ ahmed.nabil.home@gmail.com
