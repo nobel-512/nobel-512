@@ -4,13 +4,17 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nobel-512&label=Profile%20views&color=0e75b6&style=flat" alt="thuotracy" " /> </p>
 
-- 👀 I’m interested in web development
+- 👀 I’m interested in **web development**
 
-- 💞️ I’m looking to collaborate on large scale projects
+- 🤝 I’m looking to collaborate on **large scale projects**
 
 - 📫 How to reach me :
-- - 📞 <a href="https://wa.me/+201002274712" target="_blank">+20 100 227 4712</a>
-- - ✉️ ahmed.nabil.home@gmail.com
+  - LinkedIn: https://www.linkedin.com/in/ahmed-nabil-578110258/
+  - Email: ahmed.nabil.home@gmail.com
+  - Whatsapp: <a href="https://wa.me/+201002274712" target="_blank">+20 100 227 4712</a>
+  
+### GitHub Stats
+<a href="https://stats.dooboo.io"><img src="https://stats.dooboo.io/api/github-stats-advanced?login=nobel-512" width="600" /></a>
 
 
 <!---
