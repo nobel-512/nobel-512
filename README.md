@@ -12,10 +12,6 @@
   - LinkedIn: https://www.linkedin.com/in/ahmed-nabil-578110258/
   - Email: ahmed.nabil.home@gmail.com
   - Whatsapp: <a href="https://wa.me/+201002274712" target="_blank">+20 100 227 4712</a>
-  
-### GitHub Stats
-<a href="https://stats.dooboo.io"><img src="https://stats.dooboo.io/api/github-stats-advanced?login=nobel-512" width="600" /></a>
-
 
 <!---
 nobel-512/nobel-512 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
