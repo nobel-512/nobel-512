@@ -9,7 +9,7 @@
 - 🤝 I’m looking to collaborate on **large scale projects**
 
 - 📫 How to reach me :
-  - <!--LinkedIn: https://www.linkedin.com/in/ahmed-nabil-578110258/-->
+  <!--- LinkedIn: https://www.linkedin.com/in/ahmed-nabil-578110258/-->
   - Email: ahmed.nabil.home@gmail.com
   - Whatsapp: <a href="https://wa.me/+201002274712" target="_blank">+20 100 227 4712</a>
 
