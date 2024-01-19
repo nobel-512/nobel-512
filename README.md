@@ -2,7 +2,7 @@
 
 <h3>I work as a freelancer. I have about 5 years of experience in web development. I always look forward to developing myself and improve my skills. I know I don’t have the most extensive work history, but what I lack in experience I make up for in enthusiasm and dedication. I am currently looking for an entry level job.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nobel-512&label=Profile%20views&color=0e75b6&style=flat" alt="thuotracy" " /> </p>
+<!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=nobel-512&label=Profile%20views&color=0e75b6&style=flat" alt="thuotracy" " /> </p>-->
 
 - 👀 I’m interested in **web development**
 
