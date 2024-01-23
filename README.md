@@ -4,7 +4,7 @@
 
 <!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=nobel-512&label=Profile%20views&color=0e75b6&style=flat" alt="thuotracy" " /> </p>-->
 
-- 👀 I’m interested in **web development**
+- 👀 I’m interested in **Laravel framework**
 
 - 🤝 I’m looking to collaborate on **large scale projects**
 
