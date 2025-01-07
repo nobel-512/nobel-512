@@ -1,19 +1,16 @@
-<h1 align="center">👋 Hi, I'm Ahmed Nabil</h1>
+<h2 align="center">👋 Hi, I'm Ahmed Nabil</h2>
 
-<h3>I work as a freelancer. I have about 5 years of experience in web development. I always look forward to developing myself and improve my skills. I know I don’t have the most extensive work history, but what I lack in experience I make up for in enthusiasm and dedication. I am currently looking for an entry level job.</h3>
+<h4>I have 2+ years of experience in web development, I have worked on large, multi-national and multi-lingual projects from scratch to live server. While working on projects, I keep performance and speed in mind by optimizing TTFB (Time to First Byte), avoiding N+1 query problem and using cache.</h4>
 
-<!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=nobel-512&label=Profile%20views&color=0e75b6&style=flat" alt="thuotracy" " /> </p>-->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nobel-512&label=Profile%20views&color=0e75b6&style=flat" alt="thuotracy" " /> </p>
 
-- 👀 I’m interested in **Laravel framework**
+- **Front-End Skills**: JavaScript (ES6), Vue.js, Nuxt, jQuery, SASS, Tailwind CSS, Bootstrap.
 
-- 🤝 I’m looking to collaborate on **large scale projects**
+- **Back-End Skills**: PHP, Laravel, RESTful APIs, MySQL, Livewire.
+
+- **Tools & Others**: Git, GitHub, SEO standards (LCP, CLS, FCP).
 
 - 📫 How to reach me :
-  <!--- LinkedIn: https://www.linkedin.com/in/ahmed-nabil-578110258/-->
+  <!--- LinkedIn: https://www.linkedin.com/in/nobel512-->
   - Email: ahmed.nabil.home@gmail.com
   - Whatsapp: <a href="https://wa.me/+201002274712" target="_blank">+20 100 227 4712</a>
-
-<!---
-nobel-512/nobel-512 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
