@@ -6,7 +6,7 @@
 
 - **Back-End Skills**: PHP, Laravel, RESTful APIs, MySQL, Livewire.
 
-- **Tools & Others**: Git, GitHub, SEO.
+- **Tools & Others**: Git, GitHub, SEO standards.
 
 - 📫 How to reach me :
   <!--- LinkedIn: https://www.linkedin.com/in/nobel512-->
