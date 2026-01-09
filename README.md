@@ -1,3 +1,3 @@
-<h3>Over 2 years of experience in full stack development using Laravel framework. For back-end, I use PHP Laravel and MySQL databases. For front-end, I use modern frameworks and technologies such as Vue.js and Tailwind CSS framework, which helps me design and develop faster and more professional projects.</h3>
-
-Laravel • Vue.js • Livewire • Tailwind CSS • GitHub • Postman API
+Over 2 years of experience in Full-Stack development using PHP, Laravel, Vue.js, Nuxt.js, Rest APIs, MVC, 
+OOP, Unit Testing, Roles/Permissions, Cron Jobs, Queues and Caching. Which allows me to build 
+business logic, maintainable, and scalable code.
